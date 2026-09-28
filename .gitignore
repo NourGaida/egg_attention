@@ -1,0 +1,9 @@
+data/raw/
+data/interim/
+data/processed/
+models/*.pt
+models/*.pth
+models/*.onnx
+*.ipynb_checkpoints/
+__pycache__/
+.env
